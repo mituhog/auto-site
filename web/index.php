@@ -1,4 +1,5 @@
 <?php
+
 date_default_timezone_set("Europe/Moscow");
 // Using memcached as sessions store
 //ini_set('session.save_handler', 'memcached');
